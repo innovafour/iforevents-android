@@ -1,3 +1,5 @@
+> **Moved.** This SDK now lives in [innovafour/iforevents-sdks](https://github.com/innovafour/iforevents-sdks/tree/main/android). This repository is archived.
+
 # IForevents SDK for Android
 
 Kotlin-first (Java friendly) analytics SDK built on the JVM core
